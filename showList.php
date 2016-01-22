@@ -10,7 +10,7 @@
 	<nav class="w3-topnav">
 		<a class="w3-right" href="#"><b>About</b></a>
 		<a class="w3-right" href="#"><b>Developers</b></a>
-		<a href="http://smitpatel1996.github.io/PalWallet/index.html#mainbody"><i class="fa fa-home w3-xlarge"></i></a>
+		<a href="http://smitpatel1996.github.io/PalWalletWebApp/index.html#mainbody"><i class="fa fa-home w3-xlarge"></i></a>
 		<a href="#"><i class="fa fa-cog fa-spin w3-xlarge"></i></a>
 	</nav>
 	</div>
