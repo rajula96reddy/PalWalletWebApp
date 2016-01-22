@@ -15,7 +15,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
 	$bool = "INSERT INTO firsttable VALUES ('B','{$_SERVER['REMOTE_ADDR']}','{$amount}','{$name}','{$reason}',CURDATE());";
 	mysqli_query($conn, $bool);
 	mysqli_close($conn);
-	header('Location: http://smitpatel1996.github.io/PalWallet/index.html#success');
+	header('Location: http://smitpatel1996.github.io/PalWalletWebApp/index.html#success');
 	die();
 }
 ?>
